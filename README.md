@@ -11,4 +11,4 @@ Internet-accessible OpenSpeedTest servers<br>
 [OpenSpeedTest.com](https://openspeedtest.com/)<br>
 [speedtest.mst.edu](http://speedtest.mst.edu/)<br>
 [netitester.ee](http://www.netitester.ee/)<br>
-[http://speedtest.wcc.net/](http://speedtest.wcc.net/)
+[speedtest.wcc.net](http://speedtest.wcc.net/)
